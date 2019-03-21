@@ -36,7 +36,7 @@
       },
 
       _killMe: function () {
-        
+
       }
 
       //#endregion
