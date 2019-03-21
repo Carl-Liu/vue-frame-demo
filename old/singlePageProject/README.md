@@ -1,6 +1,6 @@
-# demo-js-vue
+# single-page-project
 
-> demo-js-vue
+> A Vue.js project
 
 ## Build Setup
 
