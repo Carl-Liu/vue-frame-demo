@@ -19,12 +19,28 @@
 
       //#endregion
     },
-    destroyed:function(){},
+    destroyed:function(){
+      //#region custom
+
+      this._killMe();
+
+      //#endregion
+    },
     methods:{
       //#region inner
+
+      //#region lifeCycle
+
       _initEx: function () {
         console.log(this.$t('L.HELLO_WORLD'));
+      },
+
+      _killMe: function () {
+        
       }
+
+      //#endregion
+
       //#endregion
       //#region callback
 
