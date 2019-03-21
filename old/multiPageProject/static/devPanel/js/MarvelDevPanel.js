@@ -23,18 +23,18 @@
             "Raycus_2000": {
                 plugin: new $.MarvelDevPanel_5()
             },
-            "SXL_1": {
-                plugin: new $.MarvelDevPanel_2()
-            },
-            "manhole": {
-                plugin: new $.MarvelDevPanel_6()
-            },
-            "env": {
-                plugin: new $.MarvelDevPanel_7()
-            },
-            "car": {
-                plugin: new $.MarvelDevPanel_8()
-            },
+            // "SXL_1": {
+            //     plugin: new $.MarvelDevPanel_2()
+            // },
+            // "manhole": {
+            //     plugin: new $.MarvelDevPanel_6()
+            // },
+            // "env": {
+            //     plugin: new $.MarvelDevPanel_7()
+            // },
+            // "car": {
+            //     plugin: new $.MarvelDevPanel_8()
+            // },
             "GK_1000": {
                 plugin: new $.MarvelDevPanel_9()
             },

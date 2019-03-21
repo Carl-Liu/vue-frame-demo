@@ -39,9 +39,9 @@
 </template>
 
 <script>
-  import MarvelTab from "@/walle/widget/tab/MarvelTab";
-  import MarvelTabItem from "@/walle/widget/tab/MarvelTabItem";
-  import MarvelDiffMatchPatch from "../../../../walle/widget/diffMatchPatch/MarvelDiffMatchPatch";
+  import MarvelTab from "^/widget/tab/MarvelTab";
+  import MarvelTabItem from "^/widget/tab/MarvelTabItem";
+  import MarvelDiffMatchPatch from "^/widget/diffMatchPatch/MarvelDiffMatchPatch";
 
   export default {
     name: 'page4DiffMatchPatch',

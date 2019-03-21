@@ -41,10 +41,9 @@
 </template>
 
 <script>
-  import MarvelHight from "@/walle/component/highlight";
-  import MarvelTab from "@/walle/widget/tab/MarvelTab";
-  import MarvelTabItem from "@/walle/widget/tab/MarvelTabItem";
-  import MarvelPaging from "@/walle/widget/paging/MarvelPaging";
+  import MarvelTab from "^/widget/tab/MarvelTab";
+  import MarvelTabItem from "^/widget/tab/MarvelTabItem";
+  import MarvelPaging from "^/widget/paging/MarvelPaging";
 
   export default {
     name: 'page4Paging',

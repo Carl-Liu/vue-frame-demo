@@ -53,11 +53,11 @@
 </template>
 
 <script>
-  import MarvelTab from "@/walle/widget/tab/MarvelTab";
-  import MarvelTabItem from "@/walle/widget/tab/MarvelTabItem";
-  import MarvelDropDownButton from "../../../../walle/widget/button/MarvelDropDownButton";
-  import MarvelAceEditor from "../../../../walle/widget/aceEditor/MarvelAceEditor";
-  import MarvelButton from "../../../../walle/widget/button/MarvelButton";
+  import MarvelTab from "^/widget/tab/MarvelTab";
+  import MarvelTabItem from "^/widget/tab/MarvelTabItem";
+  import MarvelDropDownButton from "^/widget/button/MarvelDropDownButton";
+  import MarvelAceEditor from "^/widget/aceEditor/MarvelAceEditor";
+  import MarvelButton from "^/widget/button/MarvelButton";
 
   export default {
     name: 'page4Coding',

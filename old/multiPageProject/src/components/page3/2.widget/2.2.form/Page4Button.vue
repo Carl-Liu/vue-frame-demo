@@ -383,19 +383,18 @@
 </template>
 
 <script>
-  import MarvelTab from "@/walle/widget/tab/MarvelTab";
-  import MarvelTabItem from "@/walle/widget/tab/MarvelTabItem";
-  import MarvelHight from "@/walle/component/highlight";
-  import MarvelButton from "@/walle/widget/button/MarvelButton";
-  import MarvelPrimaryButton from "@/walle/widget/button/MarvelPrimaryButton";
-  import MarvelIconTxtButton from "@/walle/widget/button/MarvelIconTxtButton";
-  import MarvelIconButton from "@/walle/widget/button/MarvelIconButton";
-  import MarvelTxtButton from "@/walle/widget/button/MarvelTxtButton";
-  import MarvelDropDownButton from "@/walle/widget/button/MarvelDropDownButton";
-  import MarvelTabButton from "@/walle/widget/button/MarvelTabButton";
-  import MarvelMultiDropDown from "@/walle/widget/button/MarvelMultiDropDown";
-  import MarvelInputDropDown from "@/walle/widget/button/MarvelInputDropDown";
-  import MarvelInputDropDownWithTip from "../../../../walle/widget/button/MarvelInputDropDownWithTip";
+  import MarvelTab from "^/widget/tab/MarvelTab";
+  import MarvelTabItem from "^/widget/tab/MarvelTabItem";
+  import MarvelButton from "^/widget/button/MarvelButton";
+  import MarvelPrimaryButton from "^/widget/button/MarvelPrimaryButton";
+  import MarvelIconTxtButton from "^/widget/button/MarvelIconTxtButton";
+  import MarvelIconButton from "^/widget/button/MarvelIconButton";
+  import MarvelTxtButton from "^/widget/button/MarvelTxtButton";
+  import MarvelDropDownButton from "^/widget/button/MarvelDropDownButton";
+  import MarvelTabButton from "^/widget/button/MarvelTabButton";
+  import MarvelMultiDropDown from "^/widget/button/MarvelMultiDropDown";
+  import MarvelInputDropDown from "^/widget/button/MarvelInputDropDown";
+  import MarvelInputDropDownWithTip from "^/widget/button/MarvelInputDropDownWithTip";
 
   export default {
     name: 'page4Button',

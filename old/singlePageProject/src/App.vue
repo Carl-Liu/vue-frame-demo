@@ -41,8 +41,8 @@
 </template>
 
 <script>
-  import SkinUtilsEx from "@/walle/component/skin";
-  import I18nUtilsEx from "@/walle/component/i18n";
+  import SkinUtilsEx from "~~/component/skin";
+  import I18nUtilsEx from "~~/component/i18n";
 
   export default {
     name: 'app',

@@ -112,11 +112,11 @@
 </template>
 
 <script>
-  import MarvelPrompt from '@/walle/widget/prompt/MarvelPrompt'
-  import MarvelTab from "@/walle/widget/tab/MarvelTab"
-  import MarvelTabItem from "@/walle/widget/tab/MarvelTabItem"
-  import MarvelPromptEx from "@/walle/widget/prompt/MarvelPromptEx";
-  import MarvelPromptGlobal from "@/walle/widget/prompt/MarvelPromptGlobal";
+  import MarvelPrompt from '^/widget/prompt/MarvelPrompt'
+  import MarvelTab from "^/widget/tab/MarvelTab"
+  import MarvelTabItem from "^/widget/tab/MarvelTabItem"
+  import MarvelPromptEx from "^/widget/prompt/MarvelPromptEx";
+  import MarvelPromptGlobal from "^/widget/prompt/MarvelPromptGlobal";
 
   export default {
     components: {

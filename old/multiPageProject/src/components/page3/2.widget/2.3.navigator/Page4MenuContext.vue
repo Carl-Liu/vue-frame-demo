@@ -78,11 +78,10 @@
 </template>
 
 <script>
-  import MarvelTab from "@/walle/widget/tab/MarvelTab";
-  import MarvelTabItem from "@/walle/widget/tab/MarvelTabItem";
-  import MarvelHight from "@/walle/component/highlight";
-  import MarvelMenuContext from "@/walle/widget/menu/MarvelMenuContext"
-  import MarvelMenuContext2 from "@/walle/widget/menu/MarvelMenuContext2"
+  import MarvelTab from "^/widget/tab/MarvelTab";
+  import MarvelTabItem from "^/widget/tab/MarvelTabItem";
+  import MarvelMenuContext from "^/widget/menu/MarvelMenuContext"
+  import MarvelMenuContext2 from "^/widget/menu/MarvelMenuContext2"
 
   export default {
     name: 'page4Menu',

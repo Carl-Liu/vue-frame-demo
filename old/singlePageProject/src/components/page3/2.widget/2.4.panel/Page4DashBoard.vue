@@ -84,11 +84,11 @@
 </template>
 
 <script>
-  import MarvelDashboard from "@/walle/widget/dashboard/MarvelDashboard";
-  import MarvelWarning from "@/walle/widget/warning/MarvelWarning";
-  import MarvelTab from "@/walle/widget/tab/MarvelTab";
-  import MarvelTabItem from "@/walle/widget/tab/MarvelTabItem";
-  import MarvelDashboardAdaptToContH from "../../../../walle/widget/dashboard/MarvelDashboardAdatptToContH";
+  import MarvelDashboard from "^/widget/dashboard/MarvelDashboard";
+  import MarvelWarning from "^/widget/warning/MarvelWarning";
+  import MarvelTab from "^/widget/tab/MarvelTab";
+  import MarvelTabItem from "^/widget/tab/MarvelTabItem";
+  import MarvelDashboardAdaptToContH from "^/widget/dashboard/MarvelDashboardAdatptToContH";
 
   export default {
     name: 'page4DashBoard',

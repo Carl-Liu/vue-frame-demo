@@ -137,13 +137,12 @@
 </template>
 
 <script>
-  import MarvelTab from "@/walle/widget/tab/MarvelTab";
-  import MarvelTabItem from "@/walle/widget/tab/MarvelTabItem";
-  import MarvelHight from "@/walle/component/highlight";
-  import MarvelUpload from "@/walle/widget/upload/MarvelUpload";
-  import MarvelUploadSimple from "@/walle/widget/upload/MarvelUploadSimple";
-  import MarvelUploadCustom from "../../../../walle/widget/upload/MarvelUploadCustom";
-  import MarvelUploadMulti from "../../../../walle/widget/upload/MarvelUploadMulti";
+  import MarvelTab from "^/widget/tab/MarvelTab";
+  import MarvelTabItem from "^/widget/tab/MarvelTabItem";
+  import MarvelUpload from "^/widget/upload/MarvelUpload";
+  import MarvelUploadSimple from "^/widget/upload/MarvelUploadSimple";
+  import MarvelUploadMulti from "^/widget/upload/MarvelUploadMulti";
+  import MarvelUploadCustom from "^/widget/upload/MarvelUploadCustom";
 
   export default {
     name: 'page4Upload',

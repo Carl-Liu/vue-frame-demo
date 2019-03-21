@@ -137,12 +137,12 @@
 </template>
 
 <script>
-  import MarvelTab from "@/walle/widget/tab/MarvelTab";
-  import MarvelTabItem from "@/walle/widget/tab/MarvelTabItem";
-  import ScrollUtilsEx1 from  "../../../../walle/component/scroll/scroll1"
-  import ScrollUtilsEx2 from  "../../../../walle/component/scroll/scroll2"
-  import ScrollUtilsEx3 from  "../../../../walle/component/scroll/scroll3"
-  import ScrollUtilsEx4 from  "../../../../walle/component/scroll/scroll4"
+  import MarvelTab from "^/widget/tab/MarvelTab";
+  import MarvelTabItem from "^/widget/tab/MarvelTabItem";
+  import ScrollUtilsEx1 from  "^/component/scroll/scroll1"
+  import ScrollUtilsEx2 from  "^/component/scroll/scroll2"
+  import ScrollUtilsEx3 from  "^/component/scroll/scroll3"
+  import ScrollUtilsEx4 from  "^/component/scroll/scroll4"
 
   export default {
     name: 'page4Scroll',

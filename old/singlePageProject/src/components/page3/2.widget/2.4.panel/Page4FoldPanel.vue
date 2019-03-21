@@ -57,17 +57,15 @@
 </template>
 
 <script>
-  import MarvelTab from "@/walle/widget/tab/MarvelTab";
-  import MarvelTabItem from "@/walle/widget/tab/MarvelTabItem";
-  import MarvelHight from "@/walle/component/highlight";
-  import MarvelFoldPanel from "@/walle/widget/foldPanel/MarvelFoldPanel";
+  import MarvelTab from "^/widget/tab/MarvelTab";
+  import MarvelTabItem from "^/widget/tab/MarvelTabItem";
+  import MarvelFoldPanel from "^/widget/foldPanel/MarvelFoldPanel";
 
   export default {
     name: 'page4FoldPanel',
     components: {
       MarvelTab,
       MarvelTabItem,
-      MarvelHight,
       MarvelFoldPanel
     },
     data: function () {

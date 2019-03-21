@@ -46,11 +46,10 @@
 </template>
 
 <script>
-  import MarvelTab from "@/walle/widget/tab/MarvelTab";
-  import MarvelTabItem from "@/walle/widget/tab/MarvelTabItem";
-  import MarvelHight from "@/walle/component/highlight";
-  import MarvelFrame from "@/walle/widget/frame/MarvelFrame";
-  import MarvelLoadingMini from "@/walle/widget/loading/MarvelLoadingMini";
+  import MarvelTab from "^/widget/tab/MarvelTab";
+  import MarvelTabItem from "^/widget/tab/MarvelTabItem";
+  import MarvelFrame from "^/widget/frame/MarvelFrame";
+  import MarvelLoadingMini from "^/widget/loading/MarvelLoadingMini";
 
   export default {
     name: 'page4Loading2',

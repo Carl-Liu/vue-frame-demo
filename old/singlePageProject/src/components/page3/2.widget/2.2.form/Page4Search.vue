@@ -73,10 +73,10 @@
 </template>
 
 <script>
-  import MarvelSearch from '@/walle/widget/search/MarvelSearch';
-  import MarvelSearchWithDropDown from '@/walle/widget/search/MarvelSearchWithDropDown';
-  import MarvelTab from "@/walle/widget/tab/MarvelTab";
-  import MarvelTabItem from "@/walle/widget/tab/MarvelTabItem";
+  import MarvelSearch from '^/widget/search/MarvelSearch';
+  import MarvelSearchWithDropDown from '^/widget/search/MarvelSearchWithDropDown';
+  import MarvelTab from "^/widget/tab/MarvelTab";
+  import MarvelTabItem from "^/widget/tab/MarvelTabItem";
 
   export default {
     components: {

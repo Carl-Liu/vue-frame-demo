@@ -52,10 +52,10 @@
 </template>
 
 <script>
-  import DateUtils from '@/walle/component/date';
-  import LogUtils from '@/walle/component/log';
-  import MarvelTab from "@/walle/widget/tab/MarvelTab";
-  import MarvelTabItem from "@/walle/widget/tab/MarvelTabItem";
+  import DateUtils from '~~/component/date';
+  import LogUtils from '~~/component/log';
+  import MarvelTab from "~~/widget/tab/MarvelTab";
+  import MarvelTabItem from "~~/widget/tab/MarvelTabItem";
 
   export default {
     components: {

@@ -44,9 +44,9 @@
 </template>
 
 <script>
-  import MarvelLayout1 from "@/walle/widget/layout/MarvelLayout1";
-  import MarvelTab from "@/walle/widget/tab/MarvelTab";
-  import MarvelTabItem from "@/walle/widget/tab/MarvelTabItem";
+  import MarvelLayout1 from "^/widget/layout/MarvelLayout1";
+  import MarvelTab from "^/widget/tab/MarvelTab";
+  import MarvelTabItem from "^/widget/tab/MarvelTabItem";
 
   export default {
     name: 'page4Frame',

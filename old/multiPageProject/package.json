@@ -1,7 +1,7 @@
 {
-  "name": "demo-js-vue",
+  "name": "core-fw-vue-widget-demo",
   "version": "1.0.0",
-  "description": "demo-js-vue",
+  "description": "core-fw-vue-widget-demo",
   "author": "JHercules",
   "private": true,
   "scripts": {
@@ -12,6 +12,8 @@
     "test": "npm run e2e"
   },
   "dependencies": {
+    "core-fw-vue-widget": "^1.0.0",
+    "echarts": "^4.1.0",
     "konva": "^1.6.8",
     "lodash": "^4.17.4",
     "moment": "^2.18.1",
@@ -37,7 +39,6 @@
     "copy-webpack-plugin": "^4.0.1",
     "cross-spawn": "^5.0.1",
     "css-loader": "^0.28.4",
-    "echarts": "^3.7.2",
     "eventsource-polyfill": "^0.9.6",
     "expose-loader": "^0.7.3",
     "express": "^4.14.1",

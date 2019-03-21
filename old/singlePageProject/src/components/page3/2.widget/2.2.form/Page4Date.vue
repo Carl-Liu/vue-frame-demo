@@ -41,9 +41,9 @@
 </template>
 
 <script>
-  import MarvelDate from "@/walle/widget/date/MarvelDate";
-  import MarvelTab from "@/walle/widget/tab/MarvelTab";
-  import MarvelTabItem from "@/walle/widget/tab/MarvelTabItem";
+  import MarvelDate from "^/widget/date/MarvelDate";
+  import MarvelTab from "^/widget/tab/MarvelTab";
+  import MarvelTabItem from "^/widget/tab/MarvelTabItem";
 
   export default {
     name: 'page4Crumb',

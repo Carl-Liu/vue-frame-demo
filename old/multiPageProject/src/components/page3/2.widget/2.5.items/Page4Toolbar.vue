@@ -45,10 +45,9 @@
 </template>
 
 <script>
-  import MarvelTab from "@/walle/widget/tab/MarvelTab";
-  import MarvelTabItem from "@/walle/widget/tab/MarvelTabItem";
-  import MarvelHight from "@/walle/component/highlight";
-  import MarvelToolbar from '@/walle/widget/toolbar/MarvelToolbar';
+  import MarvelTab from "^/widget/tab/MarvelTab";
+  import MarvelTabItem from "^/widget/tab/MarvelTabItem";
+  import MarvelToolbar from '^/widget/toolbar/MarvelToolbar';
 
   export default {
     components: {

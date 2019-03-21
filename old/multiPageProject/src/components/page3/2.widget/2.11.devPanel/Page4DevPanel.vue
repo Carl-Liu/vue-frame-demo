@@ -17,7 +17,7 @@
           <div class="showAreaInner">
             <!--2级DemoView start-->
             <div style="width: 100%;height: 500px;">
-              <marvel-dev-panel ref="refDevPanel" id="idDevPanel"
+              <marvel-dev-panel ref="refDevPanel" id="idDevPanel" resourceUrl="static"
                                 v-on:afterInitPlugin="afterInitPlugin"
                                 v-on:onClickBD="onClickBD"
                                 v-on:onContextMenuClickBD="onContextMenuClickBD"></marvel-dev-panel>
@@ -83,12 +83,11 @@
 </template>
 
 <script>
-  import MarvelTab from "@/walle/widget/tab/MarvelTab";
-  import MarvelTabItem from "@/walle/widget/tab/MarvelTabItem";
-  import MarvelHight from "@/walle/component/highlight";
-  import MarvelDevPanel from "@/walle/widget/devPanel/MarvelDevPanel";
-  import MarvelDevPanelEx from "@/walle/widget/devPanelEx/MarvelDevPanelEx";
-  import MarvelTimer from "@/walle/component/timer";
+  import MarvelTab from "^/widget/tab/MarvelTab";
+  import MarvelTabItem from "^/widget/tab/MarvelTabItem";
+  import MarvelDevPanel from "^/widget/devPanel/MarvelDevPanel";
+  import MarvelDevPanelEx from "^/widget/devPanelEx/MarvelDevPanelEx";
+  import MarvelTimer from "^/component/timer";
 
   export default {
     name: 'page4DevPanel',

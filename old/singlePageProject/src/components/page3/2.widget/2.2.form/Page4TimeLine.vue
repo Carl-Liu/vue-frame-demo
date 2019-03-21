@@ -40,9 +40,9 @@
 </template>
 
 <script>
-  import MarvelTimeLine from '@/walle/widget/timeline/MarvelTimeLine'
-  import MarvelTab from "@/walle/widget/tab/MarvelTab";
-  import MarvelTabItem from "@/walle/widget/tab/MarvelTabItem";
+  import MarvelTimeLine from '^/widget/timeline/MarvelTimeLine'
+  import MarvelTab from "^/widget/tab/MarvelTab";
+  import MarvelTabItem from "^/widget/tab/MarvelTabItem";
 
   export default {
     components: {

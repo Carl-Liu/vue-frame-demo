@@ -48,10 +48,10 @@
 </template>
 
 <script>
-  import MarvelFrame from '@/walle/widget/frame/MarvelFrame';
-  import MarvelTab from "@/walle/widget/tab/MarvelTab";
-  import MarvelTabItem from "@/walle/widget/tab/MarvelTabItem";
-  import MarvelPrimaryButton from "../../../../walle/widget/button/MarvelPrimaryButton";
+  import MarvelFrame from '^/widget/frame/MarvelFrame';
+  import MarvelTab from "^/widget/tab/MarvelTab";
+  import MarvelTabItem from "^/widget/tab/MarvelTabItem";
+  import MarvelPrimaryButton from "^/widget/button/MarvelPrimaryButton";
 
   export default {
     name: 'page4Frame',

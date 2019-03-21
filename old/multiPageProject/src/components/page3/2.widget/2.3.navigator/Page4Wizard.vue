@@ -77,10 +77,10 @@
 </template>
 
 <script>
-  import MarvelWizard from "@/walle/widget/wizard/MarvelWizard";
-  import MarvelWizardTab from "@/walle/widget/wizard/MarvelWizardTab";
-  import MarvelTab from "@/walle/widget/tab/MarvelTab";
-  import MarvelTabItem from "@/walle/widget/tab/MarvelTabItem";
+  import MarvelWizard from "^/widget/wizard/MarvelWizard";
+  import MarvelWizardTab from "^/widget/wizard/MarvelWizardTab";
+  import MarvelTab from "^/widget/tab/MarvelTab";
+  import MarvelTabItem from "^/widget/tab/MarvelTabItem";
 
   export default {
     name: 'page4Wizard',

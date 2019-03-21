@@ -12,7 +12,7 @@
 </template>
 
 <script>
-  import MarvelGridEx from "@/walle/widget/grid/MarvelGridEx";
+  import MarvelGridEx from "^/widget/grid/MarvelGridEx";
 
   export default {
     name: "CustomerGridComponent",

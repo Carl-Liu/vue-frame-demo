@@ -47,9 +47,9 @@
 </template>
 
 <script>
-  import MarvelMenuDropDown from "@/walle/widget/menudropdown/MarvelMenuDropDown";
-  import MarvelTab from "@/walle/widget/tab/MarvelTab";
-  import MarvelTabItem from "@/walle/widget/tab/MarvelTabItem";
+  import MarvelMenuDropDown from "^/widget/menudropdown/MarvelMenuDropDown";
+  import MarvelTab from "^/widget/tab/MarvelTab";
+  import MarvelTabItem from "^/widget/tab/MarvelTabItem";
 
   export default {
     components: {

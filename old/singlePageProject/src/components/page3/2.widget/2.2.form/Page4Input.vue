@@ -176,12 +176,11 @@
 </template>
 
 <script>
-  import MarvelTab from "@/walle/widget/tab/MarvelTab";
-  import MarvelTabItem from "@/walle/widget/tab/MarvelTabItem";
-  import MarvelHight from "@/walle/component/highlight";
-  import MarvelInput from "@/walle/widget/input/MarvelInput";
-  import MarvelMultiInput from "@/walle/widget/input/MarvelMultiInput";
-  import MarvelListInput from "../../../../walle/widget/input/MarvelListInput";
+  import MarvelTab from "^/widget/tab/MarvelTab";
+  import MarvelTabItem from "^/widget/tab/MarvelTabItem";
+  import MarvelInput from "^/widget/input/MarvelInput";
+  import MarvelMultiInput from "^/widget/input/MarvelMultiInput";
+  import MarvelListInput from "^/widget/input/MarvelListInput";
 
   export default {
     name: 'page4Input',

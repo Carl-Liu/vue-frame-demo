@@ -73,10 +73,9 @@
 </template>
 
 <script>
-  import MarvelTab from "@/walle/widget/tab/MarvelTab";
-  import MarvelTabItem from "@/walle/widget/tab/MarvelTabItem";
-  import MarvelHight from "@/walle/component/highlight";
-  import MarvelLeaflet from "@/walle/widget/leaflet/MarvelLeaflet"
+  import MarvelTab from "^/widget/tab/MarvelTab";
+  import MarvelTabItem from "^/widget/tab/MarvelTabItem";
+  import MarvelLeaflet from "^/widget/leaflet/MarvelLeaflet"
 
   export default {
     name: 'page4Leaflet',
@@ -168,7 +167,7 @@
           x: 51.5,
           y: -0.09,
           uiType: "ne",
-          uiImgUrl: "static/gis/lib/images/node1.svg",
+          uiImgUrl: "/static/gis/lib/images/node1.svg",
           uiImgWidth: 32,
           uiLabel: "marker1",
           uiTips: "<b>marker1</b><br>11111",
@@ -180,7 +179,7 @@
           x: 51.50344816877402,
           y: -0.09883403778076173,
           uiType: "ne",
-          uiImgUrl: "static/gis/lib/images/node1.svg",
+          uiImgUrl: "/static/gis/lib/images/node1.svg",
           uiImgWidth: 32,
           uiLabel: "marker2",
           uiTips: "<b>marker2</b><br>11111",
@@ -196,7 +195,7 @@
           x: 51.49994457056707,
           y: -0.10597944259643556,
           uiType: "site",
-          uiImgUrl: "static/gis/lib/images/nodeGroup1.svg",
+          uiImgUrl: "/static/gis/lib/images/nodeGroup1.svg",
           uiImgWidth: 32,
           uiLabel: "site1",
           uiTips: "<b>site1</b><br>11111",
@@ -210,7 +209,7 @@
             x: 51.49992987708078,
             y: -0.10618329048156738,
             uiType: "neInSite",
-            uiImgUrl: "static/gis/lib/images/node1.svg",
+            uiImgUrl: "/static/gis/lib/images/node1.svg",
             uiImgWidth: 32,
             uiLabel: "site1_ne1",
             uiTips: "<b>site1_ne1</b><br>11111",
@@ -221,7 +220,7 @@
             x: 51.49999332628028,
             y: -0.10580241680145265,
             uiType: "neInSite",
-            uiImgUrl: "static/gis/lib/images/node1.svg",
+            uiImgUrl: "/static/gis/lib/images/node1.svg",
             uiImgWidth: 32,
             uiLabel: "site1_ne2",
             uiTips: "<b>site1_ne2</b><br>11111",
@@ -235,7 +234,7 @@
           x: 51.49894457056707,
           y: -0.10597944259643556,
           uiType: "site",
-          uiImgUrl: "static/gis/lib/images/nodeGroup1.svg",
+          uiImgUrl: "/static/gis/lib/images/nodeGroup1.svg",
           uiImgWidth: 32,
           uiLabel: "site2",
           uiTips: "<b>site2</b><br>11111",
@@ -249,7 +248,7 @@
             x: 51.49892987708078,
             y: -0.10618329048156738,
             uiType: "neInSite",
-            uiImgUrl: "static/gis/lib/images/node1.svg",
+            uiImgUrl: "/static/gis/lib/images/node1.svg",
             uiImgWidth: 32,
             uiLabel: "site2_ne1",
             uiTips: "<b>site2_ne1</b><br>11111",
@@ -260,7 +259,7 @@
             x: 51.49899332628028,
             y: -0.10580241680145265,
             uiType: "neInSite",
-            uiImgUrl: "static/gis/lib/images/node1.svg",
+            uiImgUrl: "/static/gis/lib/images/node1.svg",
             uiImgWidth: 32,
             uiLabel: "site2_ne2",
             uiTips: "<b>site2_ne2</b><br>11111",
@@ -354,12 +353,12 @@
         //draw
         this.$refs.ref0.draw(oTopoData);
         //basicShape marker/circle/ploygon
-        this.$refs.ref0.addMarker("marker3", 51.5, -0.08, "static/gis/lib/images/node1.svg", 32, {
+        this.$refs.ref0.addMarker("marker3", 51.5, -0.08, "/static/gis/lib/images/node1.svg", 32, {
           id: "marker3",
           x: 51.5,
           y: -0.08,
           uiType: "ne",
-          uiImgUrl: "static/gis/lib/images/node1.svg",
+          uiImgUrl: "/static/gis/lib/images/node1.svg",
           uiImgWidth: 32,
           uiLabel: "marker3",
           uiTips: "<b>marker3</b><br>11111",
@@ -413,7 +412,7 @@
       oTest4Marker: function () {
         var self = this;
         this.$refs.ref0.delMarker("marker3");
-        this.$refs.ref0.setImgUrl("marker1", "static/gis/lib/images/nodeGroup1.svg", 32);
+        this.$refs.ref0.setImgUrl("marker1", "/static/gis/lib/images/nodeGroup1.svg", 32);
         this.$refs.ref0.setOpacity4Marker("marker1", 0.5);
         this.$refs.ref0.setPos4Marker("marker1", 51.502, -0.09);
         this.$refs.ref0.setTips4Marker("marker1", "fuck world!!");
@@ -425,7 +424,7 @@
       },
       oTest4AttachedIcon: function () {
         var self = this;
-        this.$refs.ref0.addAttachedIcon4Marker("marker1", "static/gis/lib/images/location-01.svg");
+        this.$refs.ref0.addAttachedIcon4Marker("marker1", "/static/gis/lib/images/location-01.svg");
         setTimeout(function () {
           self.$refs.ref0.delAttachedIcon4Marker("marker1");
         }, 2000);
@@ -491,7 +490,7 @@
           x: 0,
           y: 0,
           uiType: "ne",
-          uiImgUrl: "static/gis/lib/images/node1.svg",
+          uiImgUrl: "/static/gis/lib/images/node1.svg",
           uiImgWidth: 32,
           uiLabel: this.createMarkerId,
           uiTips: "<b>marker3</b><br>22",

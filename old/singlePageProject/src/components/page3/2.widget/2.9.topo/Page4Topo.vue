@@ -108,17 +108,15 @@
 </template>
 
 <script>
-  import MarvelTab from "@/walle/widget/tab/MarvelTab";
-  import MarvelTabItem from "@/walle/widget/tab/MarvelTabItem";
-  import MarvelHight from "@/walle/component/highlight";
-  import MarvelTopo from '@/walle/widget/topo/MarvelTopo';
-  import MarvelTopoArbor from "../../../../walle/widget/topo/MarvelTopoArbor";
+  import MarvelTab from "^/widget/tab/MarvelTab";
+  import MarvelTabItem from "^/widget/tab/MarvelTabItem";
+  import MarvelTopo from '^/widget/topo/MarvelTopo';
+  import MarvelTopoArbor from "^/widget/topo/MarvelTopoArbor";
 
   export default {
     name: 'page4Topo',
     components: {
       MarvelTopoArbor,
-      MarvelHight,
       MarvelTabItem,
       MarvelTab,
       MarvelTopo

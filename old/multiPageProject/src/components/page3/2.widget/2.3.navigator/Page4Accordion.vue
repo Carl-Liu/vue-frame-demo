@@ -104,12 +104,12 @@
 </template>
 
 <script>
-  import MarvelAccordion from "@/walle/widget/accordion/MarvelAccordion";
-  import MarvelTab from "@/walle/widget/tab/MarvelTab";
-  import MarvelTabItem from "@/walle/widget/tab/MarvelTabItem";
-  import MarvelAccordion2 from "@/walle/widget/accordion/MarvelAccordion2";
-  import MarvelAccordion3 from "@/walle/widget/accordion/MarvelAccordion3";
-  import MarvelAceEditor from "../../../../walle/widget/aceEditor/MarvelAceEditor";
+  import MarvelAccordion from "^/widget/accordion/MarvelAccordion";
+  import MarvelTab from "^/widget/tab/MarvelTab";
+  import MarvelTabItem from "^/widget/tab/MarvelTabItem";
+  import MarvelAccordion2 from "^/widget/accordion/MarvelAccordion2";
+  import MarvelAccordion3 from "^/widget/accordion/MarvelAccordion3";
+  import MarvelAceEditor from "^/widget/aceEditor/MarvelAceEditor";
 
   export default {
     name: 'page4Accordion',

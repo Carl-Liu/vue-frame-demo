@@ -4,10 +4,10 @@ import Vue from 'vue'
 import App from './App'
 import router from './router'
 import store from './store'
-import http from './walle/component/http'
-import dom from './walle/component/dom'
-import SkinUtilsEx from './walle/component/skin'
-import I18nUtilsEx from './walle/component/i18n'
+import http from '~~/component/http'
+import dom from '~~/component/dom'
+import SkinUtilsEx from '~~/component/skin'
+import I18nUtilsEx from '~~/component/i18n'
 
 Vue.config.productionTip = false;
 

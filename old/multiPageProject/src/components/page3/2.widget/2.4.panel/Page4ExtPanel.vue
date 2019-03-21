@@ -142,12 +142,11 @@
 </template>
 
 <script>
-  import MarvelTab from "@/walle/widget/tab/MarvelTab";
-  import MarvelTabItem from "@/walle/widget/tab/MarvelTabItem";
-  import MarvelHight from "@/walle/component/highlight";
-  import MarvelBottomExtPanel from "@/walle/widget/extPanel/MarvelBottomExtPanel";
-  import MarvelLeftExtPanel from "@/walle/widget/extPanel/MarvelLeftExtPanel";
-  import MarvelRightExtPanel from "@/walle/widget/extPanel/MarvelRightExtPanel";
+  import MarvelTab from "^/widget/tab/MarvelTab";
+  import MarvelTabItem from "^/widget/tab/MarvelTabItem";
+  import MarvelBottomExtPanel from "^/widget/extPanel/MarvelBottomExtPanel";
+  import MarvelLeftExtPanel from "^/widget/extPanel/MarvelLeftExtPanel";
+  import MarvelRightExtPanel from "^/widget/extPanel/MarvelRightExtPanel";
 
   export default {
     name: 'page4ExtPanel',

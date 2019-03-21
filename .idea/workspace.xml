@@ -1,19 +1,453 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="031f3ed3-72bf-4c12-833b-4ba6c29146d7" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/build/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/build/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/build/webpack.base.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/build/webpack.base.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/config/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page0/Page0.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/components/page0/Page0.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page1/Page1.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/components/page1/Page1.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/1.quickStart/Page4Install.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/1.quickStart/Page4Install.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/1.quickStart/Page4VueBasic.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/1.quickStart/Page4VueBasic.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.1.basic/Page4Animate.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.1.basic/Page4Animate.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.1.basic/Page4Color.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.1.basic/Page4Color.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.1.basic/Page4Font.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.1.basic/Page4Font.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.1.basic/Page4Frame.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.1.basic/Page4Frame.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.1.basic/Page4Icon.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.1.basic/Page4Icon.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.1.basic/Page4Layout1.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.1.basic/Page4Layout1.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.1.basic/Page4Layout2.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.1.basic/Page4Layout2.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.1.basic/Page4Scroll.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.1.basic/Page4Scroll.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.10.gis/Page4Leaflet.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.10.gis/Page4Leaflet.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.11.devPanel/Page4DevPanel.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.11.devPanel/Page4DevPanel.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.2.form/Page4Button.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.2.form/Page4Button.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.2.form/Page4Date.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.2.form/Page4Date.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.2.form/Page4Diff.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.2.form/Page4Diff.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.2.form/Page4DiffMatchPatch.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.2.form/Page4DiffMatchPatch.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.2.form/Page4Input.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.2.form/Page4Input.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.2.form/Page4Link.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.2.form/Page4Link.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.2.form/Page4Search.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.2.form/Page4Search.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.2.form/Page4Select.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.2.form/Page4Select.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.2.form/Page4TimeLine.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.2.form/Page4TimeLine.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.2.form/Page4Upload.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.2.form/Page4Upload.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.3.navigator/Page4Accordion.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.3.navigator/Page4Accordion.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.3.navigator/Page4Crumb.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.3.navigator/Page4Crumb.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.3.navigator/Page4Menu.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.3.navigator/Page4Menu.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.3.navigator/Page4MenuContext.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.3.navigator/Page4MenuContext.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.3.navigator/Page4MenuDropDown.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.3.navigator/Page4MenuDropDown.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.3.navigator/Page4Tab.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.3.navigator/Page4Tab.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.3.navigator/Page4Wizard.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.3.navigator/Page4Wizard.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.4.panel/Page4DashBoard.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.4.panel/Page4DashBoard.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.4.panel/Page4Dialog.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.4.panel/Page4Dialog.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.4.panel/Page4ExtPanel.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.4.panel/Page4ExtPanel.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.4.panel/Page4FoldPanel.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.4.panel/Page4FoldPanel.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.5.items/Page4Coding.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.5.items/Page4Coding.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.5.items/Page4Legend.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.5.items/Page4Legend.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.5.items/Page4Loading1.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.5.items/Page4Loading1.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.5.items/Page4Loading2.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.5.items/Page4Loading2.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.5.items/Page4LoadingPublic.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.5.items/Page4LoadingPublic.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.5.items/Page4Location.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.5.items/Page4Location.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.5.items/Page4Paging.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.5.items/Page4Paging.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.5.items/Page4Prompt.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.5.items/Page4Prompt.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.5.items/Page4Toolbar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.5.items/Page4Toolbar.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.5.items/Page4Warning.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.5.items/Page4Warning.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.6.grid/CustomerGridComponent.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.6.grid/CustomerGridComponent.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.6.grid/Page4Grid.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.6.grid/Page4Grid.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.6.grid/Page4List1.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.6.grid/Page4List1.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.6.grid/Page4List2.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.6.grid/Page4List2.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.6.grid/Page4List3.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.6.grid/Page4List3.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.7.tree/Page4ZTree.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.7.tree/Page4ZTree.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.8.chart/Page4Chart.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.8.chart/Page4Chart.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.9.topo/Page4Topo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.9.topo/Page4Topo.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/component/browser/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/component/date/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/component/dom/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/component/highlight/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/component/http/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/component/i18n/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/component/localS/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/component/location/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/component/log/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/component/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/component/scroll/scroll1/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/component/scroll/scroll2/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/component/scroll/scroll3/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/component/scroll/scroll4/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/component/skin/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/component/str/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/component/timer/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/core/bus/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/accordion/MarvelAccordion.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/accordion/MarvelAccordion2.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/accordion/MarvelAccordion3.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/aceEditor/MarvelAceEditor.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/animate/MarvelAnimate.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/button/MarvelButton.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/button/MarvelDropDownButton.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/button/MarvelIconButton.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/button/MarvelIconTxtButton.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/button/MarvelInputDropDown.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/button/MarvelInputDropDownWithTip.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/button/MarvelMultiDropDown.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/button/MarvelPrimaryButton.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/button/MarvelTabButton.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/button/MarvelTxtButton.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/crumb/MarvelCrumb.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/d3/MarvelD3Tree.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/dashboard/MarvelDashboard.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/dashboard/MarvelDashboardAdatptToContH.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/date/MarvelDate.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/devPanel/MarvelDevPanel.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/devPanelEx/MarvelDevPanelEx.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/dialog/MarvelConfirm.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/dialog/MarvelConfirmEx.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/dialog/MarvelDialog.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/diff/MarvelDiff.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/diff/MarvelTableDiff.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/echart/MarvelChartBar.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/echart/MarvelChartForce.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/echart/MarvelChartGauge.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/echart/MarvelChartLine.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/echart/MarvelChartPie.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/echart/MarvelChartRadar.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/echart/MarvelChartScatter.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/echart/MarvelChartScatter2.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/echart/MarvelChartStackLine.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/extPanel/MarvelBottomExtPanel.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/extPanel/MarvelLeftExtPanel.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/extPanel/MarvelRightExtPanel.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/foldPanel/MarvelFoldPanel.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/frame/MarvelFrame.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/grid/MarvelGrid.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/grid/MarvelGridColumnConfig.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/grid/MarvelGridEx.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/grid/MarvelGridExWithFreezeColumn.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/grid/MarvelGridM.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/grid/MarvelGridPriority.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/highlight/MarvelHighLight.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/input/MarvelInput.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/input/MarvelListInput.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/input/MarvelMultiInput.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/layout/MarvelLayout1.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/layout/MarvelLayout2.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/leaflet/MarvelLeaflet.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/legend/MarvelLegend.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/legend/MarvelLegendEx.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/link/MarvelLink.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/list/MarvelList1.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/list/MarvelList2.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/list/MarvelList3.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/loading/MarvelLoading.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/loading/MarvelLoadingMini.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/loading/MarvelLoadingPublic.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/menu/MarvelMenu.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/menu/MarvelMenuContext.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/menu/MarvelMenuContext2.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/menudropdown/MarvelMenuDropDown.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/paging/MarvelPaging.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/prompt/MarvelPrompt.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/prompt/MarvelPromptEx.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/prompt/MarvelPromptGLobal.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/scroll/MarvelScroll.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/search/MarvelSearch.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/search/MarvelSearchWithDropDown.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/select/MarvelBidirectionalSelect.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/select/MarvelCheckBox.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/select/MarvelRadioBox.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/select/MarvelSelectCard.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/select/MarvelSwitch.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/tab/MarvelTab.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/tab/MarvelTabItem.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/timeline/MarvelTimeLine.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/toolbar/MarvelToolbar.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/topo/MarvelTopo.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/topo/MarvelTopoArbor.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/tree/MarvelCheckTree.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/tree/MarvelLazyLoadTree.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/tree/MarvelTree.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/tree/MarvelZTree.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/tree/MarvelZTreeItem.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/upload/MarvelUpload.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/upload/MarvelUploadCustom.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/upload/MarvelUploadMulti.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/upload/MarvelUploadSimple.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/warning/MarvelWarning.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/wizard/MarvelWizard.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/walle/widget/wizard/MarvelWizardTab.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/devPanel/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/static/devPanel/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/devPanel/js/MarvelDevPanel.js" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/static/devPanel/js/MarvelDevPanel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/build/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/build/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/build/webpack.base.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/build/webpack.base.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/config/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/components/page0/Page0.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/src/components/page0/Page0.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/components/page1/Page1.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/src/components/page1/Page1.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/1.quickStart/Page4Install.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/1.quickStart/Page4Install.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/1.quickStart/Page4VueBasic.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/1.quickStart/Page4VueBasic.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.1.basic/Page4Animate.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.1.basic/Page4Animate.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.1.basic/Page4Color.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.1.basic/Page4Color.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.1.basic/Page4Font.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.1.basic/Page4Font.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.1.basic/Page4Frame.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.1.basic/Page4Frame.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.1.basic/Page4Icon.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.1.basic/Page4Icon.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.1.basic/Page4Layout1.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.1.basic/Page4Layout1.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.1.basic/Page4Layout2.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.1.basic/Page4Layout2.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.1.basic/Page4Scroll.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.1.basic/Page4Scroll.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.10.gis/Page4Leaflet.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.10.gis/Page4Leaflet.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.11.devPanel/Page4DevPanel.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.11.devPanel/Page4DevPanel.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.2.form/Page4Button.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.2.form/Page4Button.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.2.form/Page4Date.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.2.form/Page4Date.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.2.form/Page4Diff.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.2.form/Page4Diff.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.2.form/Page4DiffMatchPatch.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.2.form/Page4DiffMatchPatch.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.2.form/Page4Input.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.2.form/Page4Input.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.2.form/Page4Link.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.2.form/Page4Link.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.2.form/Page4Search.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.2.form/Page4Search.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.2.form/Page4Select.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.2.form/Page4Select.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.2.form/Page4TimeLine.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.2.form/Page4TimeLine.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.2.form/Page4Upload.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.2.form/Page4Upload.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.3.navigator/Page4Accordion.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.3.navigator/Page4Accordion.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.3.navigator/Page4Crumb.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.3.navigator/Page4Crumb.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.3.navigator/Page4Menu.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.3.navigator/Page4Menu.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.3.navigator/Page4MenuContext.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.3.navigator/Page4MenuContext.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.3.navigator/Page4MenuDropDown.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.3.navigator/Page4MenuDropDown.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.3.navigator/Page4Tab.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.3.navigator/Page4Tab.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.3.navigator/Page4Wizard.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.3.navigator/Page4Wizard.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.4.panel/Page4DashBoard.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.4.panel/Page4DashBoard.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.4.panel/Page4Dialog.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.4.panel/Page4Dialog.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.4.panel/Page4ExtPanel.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.4.panel/Page4ExtPanel.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.4.panel/Page4FoldPanel.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.4.panel/Page4FoldPanel.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.5.items/Page4Coding.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.5.items/Page4Coding.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.5.items/Page4Legend.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.5.items/Page4Legend.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.5.items/Page4Loading1.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.5.items/Page4Loading1.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.5.items/Page4Loading2.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.5.items/Page4Loading2.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.5.items/Page4LoadingPublic.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.5.items/Page4LoadingPublic.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.5.items/Page4Location.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.5.items/Page4Location.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.5.items/Page4Paging.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.5.items/Page4Paging.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.5.items/Page4Prompt.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.5.items/Page4Prompt.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.5.items/Page4Toolbar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.5.items/Page4Toolbar.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.5.items/Page4Warning.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.5.items/Page4Warning.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.6.grid/CustomerGridComponent.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.6.grid/CustomerGridComponent.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.6.grid/Page4Grid.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.6.grid/Page4Grid.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.6.grid/Page4List1.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.6.grid/Page4List1.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.6.grid/Page4List2.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.6.grid/Page4List2.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.6.grid/Page4List3.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.6.grid/Page4List3.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.7.tree/Page4ZTree.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.7.tree/Page4ZTree.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.8.chart/Page4Chart.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.8.chart/Page4Chart.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.9.topo/Page4Topo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/src/components/page3/2.widget/2.9.topo/Page4Topo.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/component/browser/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/component/date/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/component/dom/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/component/highlight/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/component/http/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/component/i18n/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/component/localS/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/component/location/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/component/log/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/component/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/component/scroll/scroll1/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/component/scroll/scroll2/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/component/scroll/scroll3/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/component/scroll/scroll4/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/component/skin/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/component/str/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/component/timer/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/core/bus/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/accordion/MarvelAccordion.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/accordion/MarvelAccordion2.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/accordion/MarvelAccordion3.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/aceEditor/MarvelAceEditor.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/animate/MarvelAnimate.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/button/MarvelButton.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/button/MarvelDropDownButton.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/button/MarvelIconButton.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/button/MarvelIconTxtButton.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/button/MarvelInputDropDown.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/button/MarvelInputDropDownWithTip.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/button/MarvelMultiDropDown.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/button/MarvelPrimaryButton.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/button/MarvelTabButton.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/button/MarvelTxtButton.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/crumb/MarvelCrumb.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/d3/MarvelD3Tree.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/dashboard/MarvelDashboard.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/dashboard/MarvelDashboardAdatptToContH.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/date/MarvelDate.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/devPanel/MarvelDevPanel.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/devPanelEx/MarvelDevPanelEx.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/dialog/MarvelConfirm.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/dialog/MarvelConfirmEx.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/dialog/MarvelDialog.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/diff/MarvelDiff.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/diff/MarvelTableDiff.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/echart/MarvelChartBar.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/echart/MarvelChartForce.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/echart/MarvelChartGauge.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/echart/MarvelChartLine.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/echart/MarvelChartPie.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/echart/MarvelChartRadar.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/echart/MarvelChartScatter.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/echart/MarvelChartScatter2.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/echart/MarvelChartStackLine.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/extPanel/MarvelBottomExtPanel.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/extPanel/MarvelLeftExtPanel.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/extPanel/MarvelRightExtPanel.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/foldPanel/MarvelFoldPanel.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/frame/MarvelFrame.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/grid/MarvelGrid.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/grid/MarvelGridColumnConfig.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/grid/MarvelGridEx.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/grid/MarvelGridExWithFreezeColumn.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/grid/MarvelGridM.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/grid/MarvelGridPriority.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/highlight/MarvelHighLight.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/input/MarvelInput.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/input/MarvelListInput.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/input/MarvelMultiInput.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/layout/MarvelLayout1.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/layout/MarvelLayout2.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/leaflet/MarvelLeaflet.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/legend/MarvelLegend.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/legend/MarvelLegendEx.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/link/MarvelLink.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/list/MarvelList1.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/list/MarvelList2.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/list/MarvelList3.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/loading/MarvelLoading.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/loading/MarvelLoadingMini.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/loading/MarvelLoadingPublic.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/menu/MarvelMenu.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/menu/MarvelMenuContext.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/menu/MarvelMenuContext2.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/menudropdown/MarvelMenuDropDown.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/paging/MarvelPaging.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/prompt/MarvelPrompt.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/prompt/MarvelPromptEx.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/prompt/MarvelPromptGLobal.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/scroll/MarvelScroll.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/search/MarvelSearch.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/search/MarvelSearchWithDropDown.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/select/MarvelBidirectionalSelect.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/select/MarvelCheckBox.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/select/MarvelRadioBox.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/select/MarvelSelectCard.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/select/MarvelSwitch.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/tab/MarvelTab.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/tab/MarvelTabItem.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/timeline/MarvelTimeLine.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/toolbar/MarvelToolbar.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/topo/MarvelTopo.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/topo/MarvelTopoArbor.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/tree/MarvelCheckTree.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/tree/MarvelLazyLoadTree.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/tree/MarvelTree.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/tree/MarvelZTree.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/tree/MarvelZTreeItem.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/upload/MarvelUpload.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/upload/MarvelUploadCustom.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/upload/MarvelUploadMulti.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/upload/MarvelUploadSimple.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/warning/MarvelWarning.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/wizard/MarvelWizard.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/src/walle/widget/wizard/MarvelWizardTab.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/static/devPanel/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/static/devPanel/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/singlePageProject/static/devPanel/js/MarvelDevPanel.js" beforeDir="false" afterPath="$PROJECT_DIR$/old/singlePageProject/static/devPanel/js/MarvelDevPanel.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/old/singlePageProject/config/index.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/new/multiPageProject/package.json" />
+      <path value="$PROJECT_DIR$/new/singlePageProject/package.json" />
+      <path value="$PROJECT_DIR$/old/multiPageProject/package.json" />
+      <path value="$PROJECT_DIR$/old/singlePageProject/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1120" />
     <option name="height" value="624" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="vue-frame-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue-frame-demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue-frame-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue-frame-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="new" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue-frame-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue-frame-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="old" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue-frame-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue-frame-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="old" type="462c0819:PsiDirectoryNode" />
+              <item name="singlePageProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue-frame-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue-frame-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="old" type="462c0819:PsiDirectoryNode" />
+              <item name="singlePageProject" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
@@ -22,5 +456,68 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="031f3ed3-72bf-4c12-833b-4ba6c29146d7" name="Default" comment="" />
+      <created>1553197445257</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553197445257</updated>
+      <workItem from="1553197448706" duration="531000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="531000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/old/singlePageProject/config/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
   </component>
 </project>

@@ -41,10 +41,10 @@
 </template>
 
 <script>
-  import MarvelCrumb from "@/walle/widget/crumb/MarvelCrumb"
-  import MarvelTab from "@/walle/widget/tab/MarvelTab";
-  import MarvelTabItem from "@/walle/widget/tab/MarvelTabItem";
-  import MarvelHighLight from "../../../../walle/widget/highlight/MarvelHighLight";
+  import MarvelCrumb from "^/widget/crumb/MarvelCrumb"
+  import MarvelTab from "^/widget/tab/MarvelTab";
+  import MarvelTabItem from "^/widget/tab/MarvelTabItem";
+  import MarvelHighLight from "^/widget/highlight/MarvelHighLight";
 
   export default {
     name: 'page4Crumb',

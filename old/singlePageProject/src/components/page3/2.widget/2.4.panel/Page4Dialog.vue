@@ -17,7 +17,7 @@
           <div class="showAreaInner">
             <!--2级DemoView start-->
             <button v-on:click="onClickDialogShow">show</button>
-            <marvel-dialog :showDialog="showDialog"
+            <marvel-dialog :showDialog="showDialog" :canDrag="true"
                            title="上传" width="500" height="300"
                            v-on:onClickDialogClose="onClickDialogClose">
               <div slot="dialogCont">111111</div>
@@ -66,6 +66,7 @@
                             :showCancelBtn="true"
                             confirmCont="这是一个提示确认框"
                             tipType="tip"
+                            :canDrag="true"
                             v-on:onClickOK="onClickConfirmOK"
                             v-on:onClickCancel="onClickConfirmCancel"></marvel-confirm>
             <!--2级DemoView end-->
@@ -109,6 +110,7 @@
                                :confirmIconColor="confirmIconColor4ConfirmEx"
                                :confirmSubTitle="confirmSubTitle4ConfirmEx"
                                :confirmCont="confirmExContent4ConfirmEx"
+                               :canDrag="true"
                                v-on:onClickOK="onClickConfirmExOK"
                                v-on:onClickCancel="onClickConfirmExCancel"></marvel-confirm-ex>
             <!--2级DemoView end-->
@@ -137,13 +139,12 @@
 </template>
 
 <script>
-  import MarvelTab from "@/walle/widget/tab/MarvelTab";
-  import MarvelTabItem from "@/walle/widget/tab/MarvelTabItem";
-  import MarvelHight from "@/walle/component/highlight";
-  import MarvelDialog from "@/walle/widget/dialog/MarvelDialog";
-  import MarvelConfirm from "@/walle/widget/dialog/MarvelConfirm";
-  import MarvelButton from "@/walle/widget/button/MarvelButton";
-  import MarvelConfirmEx from "../../../../walle/widget/dialog/MarvelConfirmEx";
+  import MarvelTab from "^/widget/tab/MarvelTab";
+  import MarvelTabItem from "^/widget/tab/MarvelTabItem";
+  import MarvelDialog from "^/widget/dialog/MarvelDialog";
+  import MarvelConfirm from "^/widget/dialog/MarvelConfirm";
+  import MarvelButton from "^/widget/button/MarvelButton";
+  import MarvelConfirmEx from "^/widget/dialog/MarvelConfirmEx";
 
   export default {
     name: 'page4Dialog',

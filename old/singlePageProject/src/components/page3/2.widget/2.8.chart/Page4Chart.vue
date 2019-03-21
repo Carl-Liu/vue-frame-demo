@@ -167,9 +167,9 @@
     <!--2级 end-->
 
     <!--2级 start-->
-    <div class="title level2">折线图</div>
+    <div class="title level2">折线图1</div>
     <div class="describe">
-      折线图
+      折线图1
     </div>
     <div class="showArea">
       <marvel-tab :tabItems="tabItems6">
@@ -198,13 +198,44 @@
     <!--2级 end-->
 
     <!--2级 start-->
+    <div class="title level2">折线图2</div>
+    <div class="describe">
+      折线图2
+    </div>
+    <div class="showArea">
+      <marvel-tab :tabItems="tabItems10">
+        <marvel-tab-item :isActive="tabItems10[0].isActive">
+          <div class="showAreaInner">
+            <!--2级DemoView start-->
+            <div style="width: 500px; height: 350px">
+              <marvel-chart-line2 ref="ref11" id="id11" theme="dark"></marvel-chart-line2>
+            </div>
+            <!--2级DemoView end-->
+          </div>
+        </marvel-tab-item>
+        <marvel-tab-item :isActive="tabItems10[1].isActive">
+          <div class="codeArea">
+            <!--2级CodeView start-->
+            <pre>
+                <code class="html">
+
+                </code>
+              </pre>
+            <!--2级CodeView end-->
+          </div>
+        </marvel-tab-item>
+      </marvel-tab>
+    </div>
+    <!--2级 end-->
+
+    <!--2级 start-->
     <div class="title level2">饼图</div>
     <div class="describe">
       饼图
     </div>
     <div class="showArea">
-      <marvel-tab :tabItems="tabItems6">
-        <marvel-tab-item :isActive="tabItems6[0].isActive">
+      <marvel-tab :tabItems="tabItems11">
+        <marvel-tab-item :isActive="tabItems11[0].isActive">
           <div class="showAreaInner">
             <!--2级DemoView start-->
             <div style="width: 500px; height: 350px">
@@ -213,7 +244,7 @@
             <!--2级DemoView end-->
           </div>
         </marvel-tab-item>
-        <marvel-tab-item :isActive="tabItems6[1].isActive">
+        <marvel-tab-item :isActive="tabItems11[1].isActive">
           <div class="codeArea">
             <!--2级CodeView start-->
             <pre>
@@ -326,22 +357,24 @@
 </template>
 
 <script>
-  import MarvelChartGauge from "@/walle/widget/echart/MarvelChartGauge";
-  import MarvelChartRadar from "@/walle/widget/echart/MarvelChartRadar";
-  import MarvelChartScatter from "@/walle/widget/echart/MarvelChartScatter";
-  import MarvelChartStackLine from "@/walle/widget/echart/MarvelChartStackLine";
-  import MarvelChartScatter2 from "@/walle/widget/echart/MarvelChartScatter2";
-  import MarvelChartLine from "@/walle/widget/echart/MarvelChartLine";
-  import MarvelTab from "@/walle/widget/tab/MarvelTab";
-  import MarvelTabItem from "@/walle/widget/tab/MarvelTabItem";
-  import MarvelChartPie from "@/walle/widget/echart/MarvelChartPie";
-  import MarvelChartBar from "@/walle/widget/echart/MarvelChartBar";
-  import MarvelChartForce from "../../../../walle/widget/echart/MarvelChartForce";
-  import MarvelD3Tree from "../../../../walle/widget/d3/MarvelD3Tree";
+  import MarvelChartGauge from "^/widget/echart/MarvelChartGauge";
+  import MarvelChartRadar from "^/widget/echart/MarvelChartRadar";
+  import MarvelChartScatter from "^/widget/echart/MarvelChartScatter";
+  import MarvelChartStackLine from "^/widget/echart/MarvelChartStackLine";
+  import MarvelChartScatter2 from "^/widget/echart/MarvelChartScatter2";
+  import MarvelChartLine from "^/widget/echart/MarvelChartLine";
+  import MarvelTab from "^/widget/tab/MarvelTab";
+  import MarvelTabItem from "^/widget/tab/MarvelTabItem";
+  import MarvelChartPie from "^/widget/echart/MarvelChartPie";
+  import MarvelChartBar from "^/widget/echart/MarvelChartBar";
+  import MarvelChartForce from "^/widget/echart/MarvelChartForce";
+  import MarvelD3Tree from "^/widget/d3/MarvelD3Tree";
+  import MarvelChartLine2 from "../../../../../../1.platform/src/walle/widget/echart/MarvelChartLine2";
 
   export default {
     name: 'page4Chart',
     components: {
+      MarvelChartLine2,
       MarvelD3Tree,
       MarvelChartForce,
       MarvelChartBar,
@@ -448,6 +481,26 @@
             isActive: false
           }
         ],
+        tabItems10: [
+          {
+            label: "Demo View",
+            isActive: true
+          },
+          {
+            label: "Code View",
+            isActive: false
+          }
+        ],
+        tabItems11: [
+          {
+            label: "Demo View",
+            isActive: true
+          },
+          {
+            label: "Code View",
+            isActive: false
+          }
+        ],
         //#endregion
         //#region custom data
         gaugeData: {
@@ -467,6 +520,55 @@
           ],
           seriesName: "",
           data: []
+        },
+        radarData2: {
+          title: "空气质量",
+          xAxis:  {
+            data:['周一','周二','周三','周四','周五','周六','周日']
+          },
+          series: [
+            {
+              name:'PM2.5(ug/m³)',
+              type:'line',
+              stack: '总量',
+              areaStyle: {},
+              data:[120, 132, 101, 134, 90, 230, 210]
+            },
+            {
+              name:'联盟广告',
+              type:'line',
+              stack: '总量',
+              areaStyle: {},
+              data:[220, 182, 191, 234, 290, 330, 310]
+            },
+            {
+              name:'视频广告',
+              type:'line',
+              stack: '总量',
+              areaStyle: {},
+              data:[150, 232, 201, 154, 190, 330, 410]
+            },
+            {
+              name:'直接访问',
+              type:'line',
+              stack: '总量',
+              areaStyle: {normal: {}},
+              data:[320, 332, 301, 334, 390, 330, 320]
+            },
+            {
+              name:'搜索引擎',
+              type:'line',
+              stack: '总量',
+              label: {
+                normal: {
+                  show: true,
+                  position: 'top'
+                }
+              },
+              areaStyle: {normal: {}},
+              data:[820, 932, 901, 934, 1290, 1330, 1320]
+            }
+          ],
         },
         scatterData: {
           title: "机床利用率",
@@ -671,7 +773,7 @@
         self.gaugeData.value = (Math.random() * 100).toFixed(2) - 0;
         self.$refs.ref1.setData(self.gaugeData);
       }, 2000);
-      //2.
+      //2.1
       this.interval2 = setInterval(function () {
         //region data
         var dataBJ = [
@@ -786,6 +888,8 @@
         }
         self.$refs.ref2.setData(self.radarData);
       }, 2000);
+      //2.2
+      self.$refs.ref11.setData(self.radarData2);
       //3.
       self.$refs.ref3.setData(self.scatterData);
       self.$refs.ref4.setData(self.scatterData2);
@@ -891,7 +995,6 @@
   }
 
   .showAreaInner {
-    padding-top: 36px;
     box-sizing: border-box;
   }
 

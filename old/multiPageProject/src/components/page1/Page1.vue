@@ -19,7 +19,7 @@
 
 <script>
   //#region fui
-  import MarvelAccordion from "@/walle/widget/accordion/MarvelAccordion";
+  import MarvelAccordion from "~~/widget/accordion/MarvelAccordion";
   //#endregion
   //#region 1.quickStart
   import Page4Install from '@/components/page3/1.quickStart/Page4Install'

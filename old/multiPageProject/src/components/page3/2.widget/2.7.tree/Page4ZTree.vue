@@ -90,12 +90,12 @@
 </template>
 
 <script>
-  import MarvelTab from "@/walle/widget/tab/MarvelTab";
-  import MarvelTabItem from "@/walle/widget/tab/MarvelTabItem";
-  import MarvelZTree from "@/walle/widget/tree/MarvelZTree";
-  import MarvelZTreeItem from "@/walle/widget/tree/MarvelZTreeItem";
-  import StringUtilsEx from "@/walle/component/str"
-  import MarvelLazyLoadTree from "@/walle/widget/tree/MarvelLazyLoadTree";
+  import MarvelTab from "^/widget/tab/MarvelTab";
+  import MarvelTabItem from "^/widget/tab/MarvelTabItem";
+  import MarvelZTree from "^/widget/tree/MarvelZTree";
+  import MarvelZTreeItem from "^/widget/tree/MarvelZTreeItem";
+  import StringUtilsEx from "^/component/str"
+  import MarvelLazyLoadTree from "^/widget/tree/MarvelLazyLoadTree";
 
   export default {
     name: 'page4ZTree',

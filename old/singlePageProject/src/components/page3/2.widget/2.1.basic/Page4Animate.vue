@@ -42,10 +42,9 @@
 </template>
 
 <script>
-  import MarvelTab from "@/walle/widget/tab/MarvelTab";
-  import MarvelTabItem from "@/walle/widget/tab/MarvelTabItem";
-  import MarvelHight from "@/walle/component/highlight";
-  import MarvelAnimate from "../../../../walle/widget/animate/MarvelAnimate";
+  import MarvelTab from "^/widget/tab/MarvelTab";
+  import MarvelTabItem from "^/widget/tab/MarvelTabItem";
+  import MarvelAnimate from "^/widget/animate/MarvelAnimate";
 
   export default {
     name: 'Page4Animate',

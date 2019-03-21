@@ -192,17 +192,17 @@
   }
 
   .section-wrap .section-1{
-    background: url("../../../static/walle/page0_1.svg")no-repeat right;
+    background: url("/static/walle/page0_1.svg")no-repeat right;
     background-position: 100% 20px;
     background-size: 50%;
   }
   .section-wrap .section-2{
-    background: url("../../../static/walle/page0_2.svg")no-repeat right;
+    background: url("/static/walle/page0_2.svg")no-repeat right;
     background-position: 100% 50px;
     background-size: 50%;
   }
   .section-wrap .section-3{
-    background: url("../../../static/walle/page0_3.svg")no-repeat right;
+    background: url("/static/walle/page0_3.svg")no-repeat right;
     background-size: 50%;
   }
 

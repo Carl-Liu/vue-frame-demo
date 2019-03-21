@@ -311,15 +311,14 @@
 
 <script>
   import Vue from "vue";
-  import MarvelTab from "@/walle/widget/tab/MarvelTab";
-  import MarvelTabItem from "@/walle/widget/tab/MarvelTabItem";
-  import MarvelHight from "@/walle/component/highlight";
-  import MarvelGrid from "@/walle/widget/grid/MarvelGrid";
-  import MarvelGridEx from "@/walle/widget/grid/MarvelGridEx";
-  import MarvelGridM from "@/walle/widget/grid/MarvelGridM";
-  import MarvelGridPriority from "@/walle/widget/grid/MarvelGridPriority";
+  import MarvelTab from "^/widget/tab/MarvelTab";
+  import MarvelTabItem from "^/widget/tab/MarvelTabItem";
+  import MarvelGrid from "^/widget/grid/MarvelGrid";
+  import MarvelGridEx from "^/widget/grid/MarvelGridEx";
+  import MarvelGridM from "^/widget/grid/MarvelGridM";
+  import MarvelGridPriority from "^/widget/grid/MarvelGridPriority";
   import CustomerGridComponent from "./CustomerGridComponent";
-  import MarvelGridExWithFreezeColumn from "../../../../walle/widget/grid/MarvelGridExWithFreezeColumn";
+  import MarvelGridExWithFreezeColumn from "^/widget/grid/MarvelGridExWithFreezeColumn";
 
   export default {
     name: 'page4Grid',

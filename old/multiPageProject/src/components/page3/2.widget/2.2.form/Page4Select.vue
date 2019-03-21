@@ -220,14 +220,13 @@
 </template>
 
 <script>
-  import MarvelTab from "@/walle/widget/tab/MarvelTab";
-  import MarvelTabItem from "@/walle/widget/tab/MarvelTabItem";
-  import MarvelHight from "@/walle/component/highlight";
-  import MarvelRadioBox from "@/walle/widget/select/MarvelRadioBox";
-  import MarvelSwitch from "@/walle/widget/select/MarvelSwitch";
-  import MarvelCheckBox from "@/walle/widget/select/MarvelCheckBox";
-  import MarvelSelectCard from "@/walle/widget/select/MarvelSelectCard";
-  import MarvelBidirectionalSelect from "../../../../walle/widget/select/MarvelBidirectionalSelect";
+  import MarvelTab from "^/widget/tab/MarvelTab";
+  import MarvelTabItem from "^/widget/tab/MarvelTabItem";
+  import MarvelRadioBox from "^/widget/select/MarvelRadioBox";
+  import MarvelSwitch from "^/widget/select/MarvelSwitch";
+  import MarvelCheckBox from "^/widget/select/MarvelCheckBox";
+  import MarvelSelectCard from "^/widget/select/MarvelSelectCard";
+  import MarvelBidirectionalSelect from "^/widget/select/MarvelBidirectionalSelect";
 
   export default {
     name: 'page4RadioBox',

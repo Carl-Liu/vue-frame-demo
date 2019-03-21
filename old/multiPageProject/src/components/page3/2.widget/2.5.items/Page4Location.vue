@@ -70,9 +70,9 @@
 </template>
 
 <script>
-  import MarvelLocation from "@/walle/component/location"
-  import MarvelTab from "@/walle/widget/tab/MarvelTab";
-  import MarvelTabItem from "@/walle/widget/tab/MarvelTabItem";
+  import MarvelLocation from "^/component/location"
+  import MarvelTab from "^/widget/tab/MarvelTab";
+  import MarvelTabItem from "^/widget/tab/MarvelTabItem";
 
   export default {
     name: 'page4Location',

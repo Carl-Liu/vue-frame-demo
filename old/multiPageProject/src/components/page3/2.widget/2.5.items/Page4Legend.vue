@@ -79,10 +79,10 @@
 </template>
 
 <script>
-  import MarvelTab from "@/walle/widget/tab/MarvelTab";
-  import MarvelTabItem from "@/walle/widget/tab/MarvelTabItem";
-  import MarvelLegend from "@/walle/widget/legend/MarvelLegend";
-  import MarvelLegendEx from "../../../../walle/widget/legend/MarvelLegendEx";
+  import MarvelTab from "^/widget/tab/MarvelTab";
+  import MarvelTabItem from "^/widget/tab/MarvelTabItem";
+  import MarvelLegend from "^/widget/legend/MarvelLegend";
+  import MarvelLegendEx from "^/widget/legend/MarvelLegendEx";
 
   export default {
     name: 'page4Legend',
