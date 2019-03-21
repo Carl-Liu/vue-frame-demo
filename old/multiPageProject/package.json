@@ -1,9 +1,9 @@
 {
-  "name": "core-fw-vue-widget-demo",
+  "name": "multi-page-project",
   "version": "1.0.0",
-  "description": "core-fw-vue-widget-demo",
-  "author": "JHercules",
-  "private": true,
+  "description": "A Vue.js project",
+  "author": "Author",
+  "private": false,
   "scripts": {
     "dev": "node build/dev-server.js",
     "start": "node build/dev-server.js",
@@ -14,7 +14,6 @@
   "dependencies": {
     "core-fw-vue-widget": "^1.0.0",
     "echarts": "^4.1.0",
-    "konva": "^1.6.8",
     "lodash": "^4.17.4",
     "moment": "^2.18.1",
     "vue": "^2.3.3",

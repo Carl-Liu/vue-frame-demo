@@ -1,7 +1,276 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="031f3ed3-72bf-4c12-833b-4ba6c29146d7" name="Default" comment="" />
+    <list default="true" id="031f3ed3-72bf-4c12-833b-4ba6c29146d7" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/build/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/build/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/build/webpack.base.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/build/webpack.base.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/config/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page0/Page0.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page1/Page1.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/1.quickStart/Page4Install.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/1.quickStart/Page4VueBasic.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/1.quickStart/vue_bus.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.1.basic/Page4Animate.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.1.basic/Page4Color.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.1.basic/Page4Font.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.1.basic/Page4Frame.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.1.basic/Page4Icon.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.1.basic/Page4Layout1.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.1.basic/Page4Layout2.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.1.basic/Page4Scroll.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.10.gis/Page4Leaflet.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.11.devPanel/Page4DevPanel.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.2.form/Page4Button.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.2.form/Page4Date.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.2.form/Page4Diff.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.2.form/Page4DiffMatchPatch.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.2.form/Page4Input.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.2.form/Page4Link.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.2.form/Page4Search.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.2.form/Page4Select.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.2.form/Page4TimeLine.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.2.form/Page4Upload.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.3.navigator/Page4Accordion.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.3.navigator/Page4Crumb.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.3.navigator/Page4Menu.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.3.navigator/Page4MenuContext.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.3.navigator/Page4MenuDropDown.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.3.navigator/Page4Tab.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.3.navigator/Page4Wizard.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.4.panel/Page4DashBoard.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.4.panel/Page4Dialog.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.4.panel/Page4ExtPanel.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.4.panel/Page4FoldPanel.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.5.items/Page4Coding.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.5.items/Page4Legend.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.5.items/Page4Loading1.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.5.items/Page4Loading2.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.5.items/Page4LoadingPublic.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.5.items/Page4Location.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.5.items/Page4Paging.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.5.items/Page4Prompt.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.5.items/Page4Toolbar.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.5.items/Page4Warning.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.6.grid/CustomerGridComponent.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.6.grid/Page4Grid.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.6.grid/Page4List1.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.6.grid/Page4List2.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.6.grid/Page4List3.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.7.tree/Page4ZTree.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.8.chart/Page4Chart.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/components/page3/2.widget/2.9.topo/Page4Topo.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/i18n/en.js" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/i18n/en.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/i18n/zh.js" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/i18n/zh.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/old/multiPageProject/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/ace/src/ace.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/ace/src/ext-beautify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/ace/src/ext-elastic_tabstops_lite.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/ace/src/ext-emmet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/ace/src/ext-error_marker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/ace/src/ext-keybinding_menu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/ace/src/ext-language_tools.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/ace/src/ext-linking.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/ace/src/ext-modelist.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/ace/src/ext-options.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/ace/src/ext-rtl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/ace/src/ext-searchbox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/ace/src/ext-settings_menu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/ace/src/ext-spellcheck.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/ace/src/ext-split.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/ace/src/ext-static_highlight.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/ace/src/ext-statusbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/ace/src/ext-textarea.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/ace/src/ext-themelist.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/ace/src/ext-whitespace.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/ace/src/keybinding-emacs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/ace/src/keybinding-vim.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/ace/src/mode-groovy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/ace/src/mode-html.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/ace/src/mode-java.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/ace/src/mode-json.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/ace/src/mode-jsoniq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/ace/src/mode-python.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/ace/src/mode-text.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/ace/src/mode-xml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/ace/src/mode-yang.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/ace/src/snippets/groovy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/ace/src/snippets/html.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/ace/src/snippets/java.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/ace/src/snippets/json.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/ace/src/snippets/jsoniq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/ace/src/snippets/python.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/ace/src/snippets/text.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/ace/src/snippets/xml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/ace/src/snippets/yang.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/ace/src/theme-chrome.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/ace/src/theme-dracula.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/ace/src/worker-html.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/ace/src/worker-json.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/ace/src/worker-xml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/d3js/d3.v3.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/devPanel/css/MarvelDevPanel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/devPanel/image/car.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/devPanel/image/dev1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/devPanel/image/dev2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/devPanel/image/dev3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/devPanel/image/dev3_1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/devPanel/image/dev4.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/devPanel/image/dev5.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/devPanel/image/env.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/devPanel/image/gk.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/devPanel/image/manhole.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/devPanel/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/devPanel/js/MarvelDevPanel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/devPanel/js/plugins/MarvelDevPanel_1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/devPanel/js/plugins/MarvelDevPanel_2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/devPanel/js/plugins/MarvelDevPanel_3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/devPanel/js/plugins/MarvelDevPanel_3_1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/devPanel/js/plugins/MarvelDevPanel_4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/devPanel/js/plugins/MarvelDevPanel_5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/devPanel/js/plugins/MarvelDevPanel_6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/devPanel/js/plugins/MarvelDevPanel_7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/devPanel/js/plugins/MarvelDevPanel_8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/devPanel/js/plugins/MarvelDevPanel_9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/devPanel/lib/jquery-3.2.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/devPanel/lib/svg.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/devPanelEx/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/devPanelEx/css/MarvelRackPanel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/devPanelEx/image/dev1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/devPanelEx/image/rack1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/devPanelEx/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/devPanelEx/js/MarvelRackPanel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/devPanelEx/lib/jquery-3.2.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/devPanelEx/lib/saveSvgAsPng.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/devPanelEx/lib/svg.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/diff/difflib.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/diff/diffview.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/diff/diffview.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/echart/china.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/echart/dark.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/echart/dark2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/echart/echarts.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/echart/world.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/gis/css/MarvelGis.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/gis/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/gis/js/MarvelGis.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/gis/js/MarvelGisApi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/gis/js/_1_stage/MarvelGisStage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/gis/js/_2_layer/MarvelGisLayer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/gis/js/_3_sprite/MarvelGisSprite.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/gis/js/_3_sprite/_1_node/MarvelGisNode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/gis/js/_3_sprite/_1_node/MarvelGisNodeGroup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/gis/js/_3_sprite/_2_link/MarvelGisLinkGroup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/gis/js/_3_sprite/_2_link/MarvelLinkUitls.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/gis/lib/images/layers-2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/gis/lib/images/layers.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/gis/lib/images/location-01.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/gis/lib/images/marker-icon-2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/gis/lib/images/marker-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/gis/lib/images/marker-shadow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/gis/lib/images/node1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/gis/lib/images/nodeGroup1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/gis/lib/jquery-3.2.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/gis/lib/keyboard.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/gis/lib/leaflet-src.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/gis/lib/leaflet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/gis/lib/leaflet.custom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/gis/lib/leaflet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/gis/lib/plugins/leaflet-easyPrint/bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/gis/lib/plugins/leaflet.PolylineMeasure/Leaflet.PolylineMeasure.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/gis/lib/plugins/leaflet.PolylineMeasure/Leaflet.PolylineMeasure.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/gis/lib/plugins/leaflet.heat/leaflet.heat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/gis/lib/plugins/leaflet.pm/leaflet.pm.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/gis/lib/plugins/leaflet.pm/leaflet.pm.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/gis/lib/plugins/leaflet.polylineDecorator/leaflet.polylineDecorator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/gis/lib/plugins/zoomify/leaflet-deepzoom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/icomoon/Read Me.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/icomoon/demo-files/demo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/icomoon/demo-files/demo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/icomoon/demo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/icomoon/selection.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/keyboard/keyboard.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/konva/konva.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/konva/konva.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/topo/css/MarvelTopo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/topo/image/dark/bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/topo/image/dark/drag.cur" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/topo/image/dark/drag2.cur" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/topo/image/dark/node1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/topo/image/dark/nodeGroup1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/topo/image/dark/nodeGroupExpand.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/topo/image/default/node1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/topo/image/default/nodeGroup1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/topo/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/topo/js/MarvelTopo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/topo/js/MarvelTopoApi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/topo/js/MarvelTopoUtils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/topo/js/_1_stage/MarvelTopoResource.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/topo/js/_1_stage/MarvelTopoStage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/topo/js/_2_layer/MarvelTopoLayer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/topo/js/_3_sprite/MarvelTopoSprite.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/topo/js/_3_sprite/_1_node/MarvelTopoNode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/topo/js/_3_sprite/_1_node/MarvelTopoNodeGroup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/topo/js/_3_sprite/_2_link/MarvelTopoLink.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/topo/js/_3_sprite/_2_link/MarvelTopoLinkGroup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/topo/js/_3_sprite/_3_box/MarvelTopoBox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/topo/js/_3_sprite/_3_box/MarvelTopoBoxGroup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/topo/lib/jquery-3.2.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/topo/lib/keyboard.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/topo/lib/konva.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/topo/lib/konva.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/topoarbor/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/topoarbor/js/MarvelArbor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/topoarbor/js/MarvelArborAPI.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/topoarbor/js/MarvelCanvas.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/topoarbor/js/MarvelSigma.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/topoarbor/lib/arbor-tween.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/topoarbor/lib/arbor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/topoarbor/lib/jquery-3.2.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/topoarbor/lib/plugins/sigma.exporters.svg.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/topoarbor/lib/plugins/sigma.layout.forceAtlas2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/topoarbor/lib/plugins/sigma.layout.noverlap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/topoarbor/lib/plugins/sigma.neo4j.cypher.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/topoarbor/lib/plugins/sigma.parsers.gexf.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/topoarbor/lib/plugins/sigma.parsers.json.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/topoarbor/lib/plugins/sigma.pathfinding.astar.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/topoarbor/lib/plugins/sigma.plugins.animate.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/topoarbor/lib/plugins/sigma.plugins.dragNodes.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/topoarbor/lib/plugins/sigma.plugins.filter.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/topoarbor/lib/plugins/sigma.plugins.neighborhoods.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/topoarbor/lib/plugins/sigma.plugins.relativeSize.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/topoarbor/lib/plugins/sigma.renderers.customEdgeShapes.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/topoarbor/lib/plugins/sigma.renderers.customShapes.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/topoarbor/lib/plugins/sigma.renderers.edgeDots.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/topoarbor/lib/plugins/sigma.renderers.edgeLabels.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/topoarbor/lib/plugins/sigma.renderers.parallelEdges.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/topoarbor/lib/plugins/sigma.renderers.snapshot.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/topoarbor/lib/plugins/sigma.statistics.HITS.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/topoarbor/lib/sigma.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/topoarbor/lib/sigma.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/topoarbor/lib/sigma.require.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/walle/backToTop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/walle/deviceIcon-04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/walle/emptyTip1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/walle/emptyTip2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/walle/emptyTip3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/walle/fui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/walle/grid_empty.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/walle/list3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/walle/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/walle/map.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/walle/node1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/walle/nodeGroup1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/walle/page0_1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/walle/page0_2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/walle/page0_3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/multiPageProject/static/walle/texture.png" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -13,26 +282,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/old/singlePageProject/config/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Demo.vue" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/old/singlePageProject/src/components/Demo.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="35" column="8" lean-forward="true" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -56,6 +306,9 @@
         <option value="$PROJECT_DIR$/old/singlePageProject/src/components/0.common/httpUtil/httpUtils.js" />
         <option value="$PROJECT_DIR$/old/singlePageProject/config/index.js" />
         <option value="$PROJECT_DIR$/old/singlePageProject/src/components/Demo.vue" />
+        <option value="$PROJECT_DIR$/old/multiPageProject/index.html" />
+        <option value="$PROJECT_DIR$/old/multiPageProject/package.json" />
+        <option value="$PROJECT_DIR$/old/multiPageProject/README.md" />
       </list>
     </option>
   </component>
@@ -114,13 +367,6 @@
               <item name="vue-frame-demo" type="462c0819:PsiDirectoryNode" />
               <item name="old" type="462c0819:PsiDirectoryNode" />
               <item name="singlePageProject" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vue-frame-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vue-frame-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="old" type="462c0819:PsiDirectoryNode" />
-              <item name="singlePageProject" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="vue-frame-demo" type="b2602c69:ProjectViewProjectNode" />
@@ -189,16 +435,15 @@
       <option name="presentableId" value="Default" />
       <updated>1553197445257</updated>
       <workItem from="1553197448706" duration="2288000" />
-      <workItem from="1553200604813" duration="1395000" />
+      <workItem from="1553200604813" duration="2017000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3683000" />
+    <option name="totallyTimeSpent" value="4305000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -339,8 +584,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/old/singlePageProject/src/components/Demo.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="35" column="8" lean-forward="true" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+        <state relative-caret-position="287">
+          <caret line="39" column="7" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/old/multiPageProject/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/old/multiPageProject/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/old/multiPageProject/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="7" selection-start-column="7" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
