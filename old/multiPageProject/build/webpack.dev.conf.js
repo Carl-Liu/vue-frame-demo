@@ -25,11 +25,13 @@ module.exports = merge(baseWebpackConfig, {
     new webpack.HotModuleReplacementPlugin(),
     new webpack.NoEmitOnErrorsPlugin(),
     // https://github.com/ampedandwired/html-webpack-plugin
-    new HtmlWebpackPlugin({
-      filename: 'index.html',
-      template: 'index.html',
-      inject: true
-    }),
+    //#region multiPage config
+    // new HtmlWebpackPlugin({
+    //   filename: 'index.html',
+    //   template: 'index.html',
+    //   inject: true
+    // }),
+    //#endregion
     new FriendlyErrorsPlugin(),
     new webpack.ProvidePlugin({
       $: 'jquery',
@@ -40,5 +42,5 @@ module.exports = merge(baseWebpackConfig, {
       'Tether': 'tether',
       utils: 'utils'
     })
-  ]
+  ].concat(utils.htmlPlugin())
 })

@@ -1,10 +1,10 @@
 <template>
-  <div>{{$t('L.HELLO_WORLD')}}</div>
+  <div>{{$t('L.HELLO_WORLD')}} 1</div>
 </template>
 
 <script>
   export default {
-    name: 'demo',
+    name: 'demo1',
     data: function() {
       return {
         //#region const

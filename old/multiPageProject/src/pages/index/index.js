@@ -25,6 +25,6 @@ new Vue({
   store,
   dom,
   i18n,
-  template: '<App/>',
-  components: { App }
+  components: { App },
+  template: '<App/>'
 });

@@ -8,9 +8,12 @@ function resolve (dir) {
 }
 
 module.exports = {
-  entry: {
-    app: './src/main.js'
-  },
+  //#region multiPage config
+  // entry: {
+  //   app: './src/main.js'
+  // },
+  entry: utils.entries(),
+  //#endregion
   output: {
     path: config.build.assetsRoot,
     filename: '[name].js',
