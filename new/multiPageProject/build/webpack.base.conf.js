@@ -12,9 +12,12 @@ function resolve (dir) {
 
 module.exports = {
   context: path.resolve(__dirname, '../'),
-  entry: {
-    app: './src/main.js'
-  },
+  //#region multiPage config
+  // entry: {
+  //   app: './src/main.js'
+  // },
+  entry: utils.entries(),
+  //#endregion
   output: {
     path: config.build.assetsRoot,
     filename: '[name].js',
