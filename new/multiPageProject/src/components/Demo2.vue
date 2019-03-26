@@ -1,5 +1,9 @@
 <template>
-  <div>{{$t('L.HELLO_WORLD')}} 2</div>
+  <div>
+    <div>{{$t('L.HELLO_WORLD')}} 2</div>
+    <img src="../../static/image/logo.png">
+    <div class="bg"></div>
+  </div>
 </template>
 
 <script>
@@ -53,5 +57,11 @@
 </script>
 
 <style scoped>
+
+  .bg{
+    width: 200px;
+    height: 200px;
+    background: url("../../static/image/logo.png");
+  }
 
 </style>
