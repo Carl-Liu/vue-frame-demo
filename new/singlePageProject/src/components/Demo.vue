@@ -1,6 +1,10 @@
 <template>
-  <div>{{$t('L.HELLO_WORLD')}}</div>
-</template>
+  <div>
+    <div>{{$t('L.HELLO_WORLD')}}</div>
+    <img src="../../static/image/logo.png">
+    <div class="bg"></div>
+  </div>
+  </template>
 
 <script>
   export default {
@@ -53,5 +57,11 @@
 </script>
 
 <style scoped>
+
+  .bg{
+    width: 200px;
+    height: 200px;
+    background: url("../../static/image/logo.png");
+  }
 
 </style>
