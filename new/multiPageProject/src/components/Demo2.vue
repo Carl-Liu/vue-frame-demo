@@ -7,6 +7,8 @@
 </template>
 
 <script>
+  import HttpUtils from "../pages/page1/src/components/0.common/httpUtil/httpUtils";
+
   export default {
     name: 'demo2',
     data: function() {
@@ -37,6 +39,21 @@
 
       _initEx: function () {
         console.log(this.$t('L.HELLO_WORLD'));
+
+        /**
+         * http demo :demoPost
+         *
+         * a {String} 参数说明
+         */
+        var reqBody = {
+          reqBuVoStr: JSON.stringify({
+            a:"a"
+          })
+        };
+        HttpUtils.post("demoPost", reqBody).then(res => {
+
+        });
+
       },
 
       _killMe: function () {
