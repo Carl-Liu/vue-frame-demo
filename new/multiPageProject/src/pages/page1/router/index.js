@@ -5,10 +5,10 @@ import Demo2 from '@/components/Demo2'
 Vue.use(Router);
 
 export default new Router({
-  mode: 'history',
+  mode: 'hash',
   routes: [
     {
-      path: '/page1.html/',
+      path: '/',
       name: 'Demo2',
       component: Demo2
     }
