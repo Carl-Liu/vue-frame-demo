@@ -7,7 +7,7 @@
 </template>
 
 <script>
-  import HttpUtils from "../pages/index/src/components/0.common/httpUtil/httpUtils";
+  import HttpUtils from "../pages/index/components/0.common/httpUtil/httpUtils";
 
   export default {
     name: 'demo1',

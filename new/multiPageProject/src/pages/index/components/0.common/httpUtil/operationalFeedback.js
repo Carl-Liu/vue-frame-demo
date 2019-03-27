@@ -2,8 +2,8 @@ import Bus from "^/core/bus";
 import I18nUtilsEx from '^/component/i18n'
 
 const i18n = I18nUtilsEx.initI18n({
-  'zh': require('../../../../i18n/zh'),
-  'en': require('../../../../i18n/en')
+  'zh': require('../../../i18n/zh'),
+  'en': require('../../../i18n/en')
 });
 
 var errorAdvice = "Please contact technical support.";
